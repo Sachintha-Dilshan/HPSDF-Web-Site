@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import {useNavigate } from "react-router-dom";
-import AuthService from "../services/auth-service";
 
 import { Button, Checkbox, Label, TextInput } from "flowbite-react";
 import Alerts from "../components/alert";

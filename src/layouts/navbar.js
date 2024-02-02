@@ -20,8 +20,8 @@ function NavigationBar() {
           alt="Government Logo"
         />
         <img
-          src={process.env.PUBLIC_URL + "/Images/hakmanaSabhaLogo.png"}
-          className="mr-3 h-10"
+          src={process.env.PUBLIC_URL + "/Images/hakmanaSabhaLogo.jpg"}
+          className="mr-3 h-10 rounded-full"
           alt="Sabha Logo"
         />
         <span className="self-center  text-center   flex-wrap text-lg font-semibold text-white uppercase ">
