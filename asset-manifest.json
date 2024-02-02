@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HPSDF-Web-Site/static/css/main.ac400fde.css",
+    "main.js": "/HPSDF-Web-Site/static/js/main.e46083a1.js",
+    "static/js/787.ec3ba887.chunk.js": "/HPSDF-Web-Site/static/js/787.ec3ba887.chunk.js",
+    "index.html": "/HPSDF-Web-Site/index.html",
+    "main.ac400fde.css.map": "/HPSDF-Web-Site/static/css/main.ac400fde.css.map",
+    "main.e46083a1.js.map": "/HPSDF-Web-Site/static/js/main.e46083a1.js.map",
+    "787.ec3ba887.chunk.js.map": "/HPSDF-Web-Site/static/js/787.ec3ba887.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac400fde.css",
+    "static/js/main.e46083a1.js"
+  ]
+}
