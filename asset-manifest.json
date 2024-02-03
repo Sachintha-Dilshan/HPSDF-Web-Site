@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HPSDF-Web-Site/static/css/main.ac400fde.css",
-    "main.js": "/HPSDF-Web-Site/static/js/main.c56c0123.js",
+    "main.css": "/HPSDF-Web-Site/static/css/main.4a737b2f.css",
+    "main.js": "/HPSDF-Web-Site/static/js/main.d4d8d3dd.js",
     "static/js/787.ec3ba887.chunk.js": "/HPSDF-Web-Site/static/js/787.ec3ba887.chunk.js",
     "index.html": "/HPSDF-Web-Site/index.html",
-    "main.ac400fde.css.map": "/HPSDF-Web-Site/static/css/main.ac400fde.css.map",
-    "main.c56c0123.js.map": "/HPSDF-Web-Site/static/js/main.c56c0123.js.map",
+    "main.4a737b2f.css.map": "/HPSDF-Web-Site/static/css/main.4a737b2f.css.map",
+    "main.d4d8d3dd.js.map": "/HPSDF-Web-Site/static/js/main.d4d8d3dd.js.map",
     "787.ec3ba887.chunk.js.map": "/HPSDF-Web-Site/static/js/787.ec3ba887.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac400fde.css",
-    "static/js/main.c56c0123.js"
+    "static/css/main.4a737b2f.css",
+    "static/js/main.d4d8d3dd.js"
   ]
 }
