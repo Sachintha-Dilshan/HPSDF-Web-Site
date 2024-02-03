@@ -1,6 +1,7 @@
 "use client";
 import React from "react";
 import {useNavigate } from "react-router-dom";
+import AuthService from "../services/auth-service";
 
 import { Button, Checkbox, Label, TextInput } from "flowbite-react";
 import Alerts from "../components/alert";
@@ -69,12 +70,12 @@ function Login() {
           </h2>
           <div className="flex text-center justify-center">
             <img
-              src="Images/governmentLogo.png"
+              src={process.env.PUBLIC_URL + "/Images/government-logo.png"}
               className="mr-2 h-14 "
               alt="Government Logo"
             />
             <img
-              src="Images/hakmanaSabhaLogo.png"
+              src={process.env.PUBLIC_URL + "/Images/sabha-logo.png"}
               className="h-14"
               alt="Sabha Logo"
             />

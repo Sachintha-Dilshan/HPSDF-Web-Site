@@ -10,7 +10,7 @@ function HRDashboardCard(props) {
         <img
           src={process.env.PUBLIC_URL + props.image}
           alt="Employees"
-          className="w-50 h-40 rounded-l-lg "
+          className="w-52 h-40 rounded-l-lg "
         />
 
         <div className="flex-grow">
